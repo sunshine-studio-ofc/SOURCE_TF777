@@ -79,9 +79,9 @@ class TF777OS(ctk.CTk):
         self.pausado = False
         self.tem_webcam = False  # Padrão como False
         self.lista_chaves = [
-            "AIzaSyDghAzEEM5PoJTUNDfGFS00CsctPDdxCUo",
-            "AIzaSyA-Xsm9h_NM0TO31jwdQwO8WoJ0Hy7cuZE",
-            "AIzaSyD2ED7zPpmWcOzX38XUmgUPaEOHVlu-QZc"
+            "-KEY-1-",
+            "-KEY-2-",
+            "-KEY-3-"
         ]
         
         # 3. Inicia Áudio
