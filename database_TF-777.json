@@ -1,0 +1,24 @@
+{
+    "serial": "652F3D75",
+    "usuarios": {
+        "rafael": {
+            "nome_exibicao": "Rafael",
+            "historico": [],
+            "fatos": {
+                "L3N1": "ABRIR CANAL CORTES - Leon e Nilce [Oficial",
+                "PESQUISAR CANAL CADE A CHAVE NO YOTUBE": "CADE A CHAVE"
+            }
+        },
+        "conta": {
+            "nome_exibicao": "Conta",
+            "historico": []
+        },
+        "gabriela": {
+            "nome_exibicao": "Gabriela",
+            "historico": []
+        }
+    },
+    "config": {
+        "tem_webcam": false
+    }
+}
